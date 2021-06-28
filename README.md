@@ -1,7 +1,5 @@
 # Breast-cancer-risk-prediction
 
-> Necessity, who is the mother of invention. – Plato*
-
 ## Welcome to my GitHub repository on Using Predictive Analytics model to diagnose breast cancer.
 ---
 
